@@ -1,0 +1,15 @@
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\bin\Debug\net6.0\oddOeEven.exe
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\bin\Debug\net6.0\oddOeEven.deps.json
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\bin\Debug\net6.0\oddOeEven.runtimeconfig.json
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\bin\Debug\net6.0\oddOeEven.dll
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\bin\Debug\net6.0\oddOeEven.pdb
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.csproj.AssemblyReference.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.AssemblyInfoInputs.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.AssemblyInfo.cs
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.csproj.CoreCompileInputs.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.dll
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\refint\oddOeEven.dll
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.pdb
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\oddOeEven.genruntimeconfig.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\oddOeEven\obj\Debug\net6.0\ref\oddOeEven.dll

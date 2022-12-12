@@ -1,0 +1,15 @@
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\bin\Debug\net6.0\Week3ifAndSwitch.exe
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\bin\Debug\net6.0\Week3ifAndSwitch.deps.json
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\bin\Debug\net6.0\Week3ifAndSwitch.runtimeconfig.json
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\bin\Debug\net6.0\Week3ifAndSwitch.dll
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\bin\Debug\net6.0\Week3ifAndSwitch.pdb
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.csproj.AssemblyReference.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.AssemblyInfoInputs.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.AssemblyInfo.cs
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.dll
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\refint\Week3ifAndSwitch.dll
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.pdb
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\Week3ifAndSwitch.genruntimeconfig.cache
+C:\Users\kagaf\source\repos\Week3ifAndSwitch\Week3ifAndSwitch\obj\Debug\net6.0\ref\Week3ifAndSwitch.dll
